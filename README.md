@@ -1,6 +1,8 @@
 # ProjectAssesment
 BorrowCalc
 
+Need to download the project zip file and extract it and follow the steps listed.
+
 Pre conditions / softwares:
 IDE : Eclipse should be installed
 Java needs to be installed.
